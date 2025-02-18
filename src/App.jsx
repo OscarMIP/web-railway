@@ -46,7 +46,7 @@ function App() {
       </section>
 
       <section className="image-section">
-        <img src={garchomp} alt="Garchomp" className="Garchomp" />
+        <img src={representativeImage} alt="Imatge representativa" className="representative-image" />
       </section>
 
       <section className="form-section">
