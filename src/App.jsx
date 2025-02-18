@@ -2,7 +2,7 @@ import { useState } from 'react';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import './App.css';
-import representativeImage from './assets/representativa.jpg';
+import representativeImage from './assets/descarga.jpg';
 
 function App() {
   const [count, setCount] = useState(0);
