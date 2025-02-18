@@ -41,12 +41,12 @@ function App() {
 
       <section className="project-info">
         <h2>Desplegament duna aplicació web a Vercel mitjançant GitHub</h2>
-        <p><strong>Autor:</strong> [Guillem]</p>
+        <p><strong>Autor:</strong> [Oscar]</p>
         <p>Este es un proyecto creado con Vite y React para explorar el desarrollo rápido de aplicaciones web.</p>
       </section>
 
       <section className="image-section">
-        <img src={representativeImage} alt="Imatge representativa" className="representative-image" />
+        <img src={garchomp} alt="Garchomp" className="Garchomp" />
       </section>
 
       <section className="form-section">
