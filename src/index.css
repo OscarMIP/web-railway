@@ -19,7 +19,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-image: url('garchomp-f.png');
+  background-image: url('descarga.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -68,7 +68,7 @@ button:focus-visible {
     background-color: #ffffff;
   }
   body {
-    background-image: url('garchomp-f.png');
+    background-image: url('descarga.jpg');
   }
   a:hover {
     color: #ff6347;
