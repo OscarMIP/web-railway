@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #121212;
+  background-color: #1ad2d5;
   
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -68,7 +68,7 @@ button:focus-visible {
     background-color: #ffffff;
   }
   body {
-    background-image: url('imatge_representativa_clara.jpg');
+    background-image: url('garchomp-f.png');
   }
   a:hover {
     color: #ff6347;
